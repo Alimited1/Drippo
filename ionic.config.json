@@ -1,0 +1,7 @@
+{
+  "name": "Drippo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
